@@ -1,2 +1,2 @@
 # advdevopsCodePipeline
-This is basic code to understand the AWS Codepipeline.
+This is a basic code to understand the AWS Codepipeline.
